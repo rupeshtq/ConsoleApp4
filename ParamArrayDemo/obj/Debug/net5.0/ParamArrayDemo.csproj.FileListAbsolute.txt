@@ -1,0 +1,15 @@
+C:\Users\Sai\source\repos\ParamArrayDemo\bin\Debug\net5.0\ParamArrayDemo.exe
+C:\Users\Sai\source\repos\ParamArrayDemo\bin\Debug\net5.0\ParamArrayDemo.deps.json
+C:\Users\Sai\source\repos\ParamArrayDemo\bin\Debug\net5.0\ParamArrayDemo.runtimeconfig.json
+C:\Users\Sai\source\repos\ParamArrayDemo\bin\Debug\net5.0\ParamArrayDemo.runtimeconfig.dev.json
+C:\Users\Sai\source\repos\ParamArrayDemo\bin\Debug\net5.0\ParamArrayDemo.dll
+C:\Users\Sai\source\repos\ParamArrayDemo\bin\Debug\net5.0\ref\ParamArrayDemo.dll
+C:\Users\Sai\source\repos\ParamArrayDemo\bin\Debug\net5.0\ParamArrayDemo.pdb
+C:\Users\Sai\source\repos\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai\source\repos\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.AssemblyInfoInputs.cache
+C:\Users\Sai\source\repos\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.AssemblyInfo.cs
+C:\Users\Sai\source\repos\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sai\source\repos\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.dll
+C:\Users\Sai\source\repos\ParamArrayDemo\obj\Debug\net5.0\ref\ParamArrayDemo.dll
+C:\Users\Sai\source\repos\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.pdb
+C:\Users\Sai\source\repos\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.genruntimeconfig.cache
