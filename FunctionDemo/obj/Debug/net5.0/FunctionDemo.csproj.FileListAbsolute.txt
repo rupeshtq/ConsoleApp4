@@ -1,0 +1,16 @@
+C:\Users\Sai\source\repos\FunctionDemo\bin\Debug\net5.0\FunctionDemo.exe
+C:\Users\Sai\source\repos\FunctionDemo\bin\Debug\net5.0\FunctionDemo.deps.json
+C:\Users\Sai\source\repos\FunctionDemo\bin\Debug\net5.0\FunctionDemo.runtimeconfig.json
+C:\Users\Sai\source\repos\FunctionDemo\bin\Debug\net5.0\FunctionDemo.runtimeconfig.dev.json
+C:\Users\Sai\source\repos\FunctionDemo\bin\Debug\net5.0\FunctionDemo.dll
+C:\Users\Sai\source\repos\FunctionDemo\bin\Debug\net5.0\ref\FunctionDemo.dll
+C:\Users\Sai\source\repos\FunctionDemo\bin\Debug\net5.0\FunctionDemo.pdb
+C:\Users\Sai\source\repos\FunctionDemo\obj\Debug\net5.0\FunctionDemo.csproj.AssemblyReference.cache
+C:\Users\Sai\source\repos\FunctionDemo\obj\Debug\net5.0\FunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai\source\repos\FunctionDemo\obj\Debug\net5.0\FunctionDemo.AssemblyInfoInputs.cache
+C:\Users\Sai\source\repos\FunctionDemo\obj\Debug\net5.0\FunctionDemo.AssemblyInfo.cs
+C:\Users\Sai\source\repos\FunctionDemo\obj\Debug\net5.0\FunctionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sai\source\repos\FunctionDemo\obj\Debug\net5.0\FunctionDemo.dll
+C:\Users\Sai\source\repos\FunctionDemo\obj\Debug\net5.0\ref\FunctionDemo.dll
+C:\Users\Sai\source\repos\FunctionDemo\obj\Debug\net5.0\FunctionDemo.pdb
+C:\Users\Sai\source\repos\FunctionDemo\obj\Debug\net5.0\FunctionDemo.genruntimeconfig.cache
