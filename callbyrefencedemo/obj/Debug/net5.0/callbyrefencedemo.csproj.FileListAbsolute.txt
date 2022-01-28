@@ -1,0 +1,15 @@
+C:\Users\Sai\source\repos\callbyrefencedemo\bin\Debug\net5.0\callbyrefencedemo.exe
+C:\Users\Sai\source\repos\callbyrefencedemo\bin\Debug\net5.0\callbyrefencedemo.deps.json
+C:\Users\Sai\source\repos\callbyrefencedemo\bin\Debug\net5.0\callbyrefencedemo.runtimeconfig.json
+C:\Users\Sai\source\repos\callbyrefencedemo\bin\Debug\net5.0\callbyrefencedemo.runtimeconfig.dev.json
+C:\Users\Sai\source\repos\callbyrefencedemo\bin\Debug\net5.0\callbyrefencedemo.dll
+C:\Users\Sai\source\repos\callbyrefencedemo\bin\Debug\net5.0\ref\callbyrefencedemo.dll
+C:\Users\Sai\source\repos\callbyrefencedemo\bin\Debug\net5.0\callbyrefencedemo.pdb
+C:\Users\Sai\source\repos\callbyrefencedemo\obj\Debug\net5.0\callbyrefencedemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai\source\repos\callbyrefencedemo\obj\Debug\net5.0\callbyrefencedemo.AssemblyInfoInputs.cache
+C:\Users\Sai\source\repos\callbyrefencedemo\obj\Debug\net5.0\callbyrefencedemo.AssemblyInfo.cs
+C:\Users\Sai\source\repos\callbyrefencedemo\obj\Debug\net5.0\callbyrefencedemo.csproj.CoreCompileInputs.cache
+C:\Users\Sai\source\repos\callbyrefencedemo\obj\Debug\net5.0\callbyrefencedemo.dll
+C:\Users\Sai\source\repos\callbyrefencedemo\obj\Debug\net5.0\ref\callbyrefencedemo.dll
+C:\Users\Sai\source\repos\callbyrefencedemo\obj\Debug\net5.0\callbyrefencedemo.pdb
+C:\Users\Sai\source\repos\callbyrefencedemo\obj\Debug\net5.0\callbyrefencedemo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Sai\source\repos\callbyvalue demo\bin\Debug\net5.0\callbyvalue demo.exe
+C:\Users\Sai\source\repos\callbyvalue demo\bin\Debug\net5.0\callbyvalue demo.deps.json
+C:\Users\Sai\source\repos\callbyvalue demo\bin\Debug\net5.0\callbyvalue demo.runtimeconfig.json
+C:\Users\Sai\source\repos\callbyvalue demo\bin\Debug\net5.0\callbyvalue demo.runtimeconfig.dev.json
+C:\Users\Sai\source\repos\callbyvalue demo\bin\Debug\net5.0\callbyvalue demo.dll
+C:\Users\Sai\source\repos\callbyvalue demo\bin\Debug\net5.0\ref\callbyvalue demo.dll
+C:\Users\Sai\source\repos\callbyvalue demo\bin\Debug\net5.0\callbyvalue demo.pdb
+C:\Users\Sai\source\repos\callbyvalue demo\obj\Debug\net5.0\callbyvalue demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai\source\repos\callbyvalue demo\obj\Debug\net5.0\callbyvalue demo.AssemblyInfoInputs.cache
+C:\Users\Sai\source\repos\callbyvalue demo\obj\Debug\net5.0\callbyvalue demo.AssemblyInfo.cs
+C:\Users\Sai\source\repos\callbyvalue demo\obj\Debug\net5.0\callbyvalue demo.csproj.CoreCompileInputs.cache
+C:\Users\Sai\source\repos\callbyvalue demo\obj\Debug\net5.0\callbyvalue demo.dll
+C:\Users\Sai\source\repos\callbyvalue demo\obj\Debug\net5.0\ref\callbyvalue demo.dll
+C:\Users\Sai\source\repos\callbyvalue demo\obj\Debug\net5.0\callbyvalue demo.pdb
+C:\Users\Sai\source\repos\callbyvalue demo\obj\Debug\net5.0\callbyvalue demo.genruntimeconfig.cache
