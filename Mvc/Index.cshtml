@@ -1,0 +1,32 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+ 
+        @using (Html.BeginForm())
+        {
+
+            <div>
+
+                This Page Shows Employee Information<br/>
+                Enter Your Name : @Html.TextBox("txtname")<br />
+                <input type="submit" id="btnsubmit" value="Click Me" /><br/>
+                @if (Session["name"] != null)
+                {
+                    var name = Session["name"].ToString();
+                    <span id="span1">Name is @name</span>
+                }
+            </div>
+        }
+       
+</body>
+</html>
